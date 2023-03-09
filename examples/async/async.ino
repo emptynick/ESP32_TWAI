@@ -1,5 +1,5 @@
 /*
-    Simple polling demonstration sending a message with ID 0x123 every 5 seconds and receiving messages printing their ID.
+    Simple async demonstration sending a message with ID 0x123 every 5 seconds and receiving messages printing their ID.
 */
 
 #include <Arduino.h>
